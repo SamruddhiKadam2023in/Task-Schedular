@@ -1,0 +1,16 @@
+{
+  "name": "task-scheduler-server",
+  "version": "1.0.0",
+  "description": "Backend API for the Task Scheduler mini project (Express + SQLite).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "better-sqlite3": "^11.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
