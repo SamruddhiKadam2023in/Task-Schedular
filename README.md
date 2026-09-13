@@ -130,7 +130,7 @@ The shipped backend uses SQLite (`server/db.js`) so the project runs with zero e
 
 ## 📄 License
 
-This project is open-source. Feel free to use, modify, and distribute it as per your needs (add your preferred license, e.g. MIT, here).
+This project is open-source. Feel free to use, modify, and distribute it as per your needs.
 
 ---
 
